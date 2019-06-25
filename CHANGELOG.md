@@ -1,3 +1,55 @@
+# v4.14.22 (Mon Jun 24 2019)
+
+#### 🐛  Bug Fix
+
+- Adds note about Zeppelin plugin [#524](https://github.com/artsy/palette/pull/524) ([@ashfurrow](https://github.com/ashfurrow))
+
+#### Authors: 1
+
+- Ash Furrow ([@ashfurrow](https://github.com/ashfurrow))
+
+---
+
+# v4.14.21 (Fri Jun 21 2019)
+
+#### 🐛  Bug Fix
+
+- `@artsy/palette`
+  - Add prop to make button full width [#523](https://github.com/artsy/palette/pull/523) ([@lilyfromseattle](https://github.com/lilyfromseattle) 34651588+peril-staging[bot]@users.noreply.github.com)
+
+#### Authors: 2
+
+- Lily Pace ([@lilyfromseattle](https://github.com/lilyfromseattle))
+- 34651588+peril-staging[bot]@users.noreply.github.com
+
+---
+
+# v4.14.20 (Wed Jun 19 2019)
+
+#### 🏠  Internal
+
+- `@artsy/palette`
+  - Fixes typo [#520](https://github.com/artsy/palette/pull/520) ([@kierangillen](https://github.com/kierangillen))
+
+#### Authors: 1
+
+- Kieran Gillen ([@kierangillen](https://github.com/kierangillen))
+
+---
+
+# v4.14.19 (Wed Jun 19 2019)
+
+#### 🐛  Bug Fix
+
+- `@artsy/palette`
+  - Fix donut chart animation bug [#519](https://github.com/artsy/palette/pull/519) ([@sepans](https://github.com/sepans))
+
+#### Authors: 1
+
+- Sepand Ansari ([@sepans](https://github.com/sepans))
+
+---
+
 # v4.14.18 (Mon Jun 17 2019)
 
 #### 🐛  Bug Fix
